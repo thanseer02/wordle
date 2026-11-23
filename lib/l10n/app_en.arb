@@ -1,0 +1,22 @@
+{
+  "hello": "Hello",
+  "wordleTitle": "WORDLE",
+  "howToPlay": "HOW TO PLAY",
+  "howToPlayDescription": "Guess the WORDLE in 6 tries.\n\n• Each guess must be a valid 5-letter word.\n• The color of the tiles will change to show how close your guess was to the word.",
+  "correctSpotHint": "is in the word and in the correct spot.",
+  "wrongSpotHint": "is in the word but in the wrong spot.",
+  "notInWordHint": "is not in the word in any spot.",
+  "gotIt": "GOT IT",
+  "settings": "SETTINGS",
+  "hardMode": "Hard Mode",
+  "hardModeSubtitle": "Any revealed hints must be used in subsequent guesses",
+  "darkTheme": "Dark Theme",
+  "close": "CLOSE",
+  "restartGame": "Restart Game",
+  "playAgain": "PLAY AGAIN",
+  "splendid": "Splendid!",
+  "gameOver": "Game Over",
+  "enter": "ENTER",
+  "notEnoughLetters": "Not enough letters",
+  "notInWordList": "Not in word list"
+}

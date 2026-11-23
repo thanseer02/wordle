@@ -1,0 +1,22 @@
+{
+  "hello": "こんにちは",
+  "wordleTitle": "WORDLE",
+  "howToPlay": "遊び方",
+  "howToPlayDescription": "6回の試行でWORDLEを当ててください。\n\n• 各推測は有効な5文字の単語である必要があります。\n• タイルの色は、推測が単語にどれだけ近かったかを示します。",
+  "correctSpotHint": "は単語に含まれており、正しい位置にあります。",
+  "wrongSpotHint": "は単語に含まれていますが、位置が違います。",
+  "notInWordHint": "は単語のどの位置にも含まれていません。",
+  "gotIt": "了解",
+  "settings": "設定",
+  "hardMode": "ハードモード",
+  "hardModeSubtitle": "明かされたヒントは以降の推測で使用する必要があります",
+  "darkTheme": "ダークテーマ",
+  "close": "閉じる",
+  "restartGame": "リスタート",
+  "playAgain": "もう一度遊ぶ",
+  "splendid": "素晴らしい！",
+  "gameOver": "ゲームオーバー",
+  "enter": "ENTER",
+  "notEnoughLetters": "文字数が足りません",
+  "notInWordList": "単語リストにありません"
+}
